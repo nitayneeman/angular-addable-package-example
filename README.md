@@ -1,2 +1,2 @@
-# Chrome DevTools - Debugging Node.js Application Using ndb
-Check out the relevant [article](https://goo.gl/qVLp6S).
+# Making an Addable Angular Package Using Schematics
+Check out the relevant [article](https://goo.gl/94qb4k).
